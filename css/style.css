@@ -1,0 +1,87 @@
+body {
+  background-color: hsl(225, 100%, 94%);
+  background-image: url("images/pattern-background-desktop.svg");
+  text-align: center;
+  font-family: 'Red Hat Display', sans-serif;
+  color: hsl(223, 47%, 23%);
+}
+p {
+  color: #8c90a4;
+}
+
+.first-container {
+  width: 25rem;
+  background-color: hsl(225, 100%, 98%);
+  margin: 3rem 37.5rem;
+  border-radius: 1rem;
+}
+
+.top-image {
+  width: 25rem;
+  border-radius: 1rem 1rem 0 0;
+}
+
+.second-container {
+  margin-top: 0;
+  padding: 1rem 2rem 2rem 2rem;
+}
+
+.thired-container {
+  text-align: left;
+  background-color: hsl(225, 100%, 96%);
+  border-radius: 1rem;
+  padding: 0.1rem;
+  width: 20rem;
+  margin: 2rem auto;
+  position: relative;
+}
+.icon-music {
+  float: left;
+  margin: 1rem;
+}
+.price {
+  margin-top: 0;
+  padding-top: 0;
+  display: inline;
+}
+.change-button {
+   left:5rem;
+}
+.change-button:hover {
+  text-decoration: none;
+  color: #776cf1;
+}
+
+.myButton {
+	background-color:#3a2ae1;
+	border-radius:10px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 85px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#776cf1;
+}
+
+.cancel-button {
+  color: #8c90a4;
+  text-decoration: none;
+
+}
+
+.cancel-button:hover {
+  color: #000000;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
