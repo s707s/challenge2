@@ -12,7 +12,7 @@ p {
 .first-container {
   width: 25rem;
   background-color: hsl(225, 100%, 98%);
-  margin: 3rem 37.5rem;
+  margin: 3rem auto;
   border-radius: 1rem;
 }
 
